@@ -1,8 +1,6 @@
-**ALURA GEEK -** Loja de Filmes da Saga Star Wars
+**ALURA GEEK STAR WARS -** Loja de Filmes das Trilogias
 
-![image](https://github.com/EdivanS96/challenge-one-portfolio-br/assets/164213518/85d5b99f-2d10-453c-a04d-6275f2473198)
-
-
+![Alura_SW](https://github.com/user-attachments/assets/0ba9fa79-aba1-4d7c-acc3-ee78b11d3a49)
 
 Ferramentas utilizadas:
 
@@ -13,7 +11,6 @@ Ferramentas utilizadas:
 🔹 Github
 
 🔹 VSCode
-
 
 Fases:
 
