@@ -1,16 +1,27 @@
-**ALURA GEEK STAR WARS -** Loja de Filmes das Trilogias
+ 
+
+<div align="center">
+
+# **ALURA GEEK STAR WARS**
+
+<p style="font-size:20px;">Loja de Filmes das Trilogias</p>
+
+</div>
+
 
 ![Alura_SW](https://github.com/user-attachments/assets/0ba9fa79-aba1-4d7c-acc3-ee78b11d3a49)
 
 Ferramentas utilizadas:
 
-🔹 Figma
+🔹 HTML
 
-🔹 Trello
+🔹 CSS
+
+🔹 Javascript
+
+🔹 NodeJS
 
 🔹 Github
-
-🔹 VSCode
 
 Fases:
 
